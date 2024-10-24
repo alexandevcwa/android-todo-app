@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">recycle-view-android</string>
+    <string name="todo_app_title">HOLA AlexanDev_CWA</string>
+    <string name="todo_app_category">CATEGORIAS</string>
+    <string name="todo_app_tasks">TAREAS</string>
+    <string name="todo_floating_button_add_task">Add Task</string>
+    <string name="todo_app_dialog_edit_text">Descripción de la tarea</string>
+    <string name="todo_app_dialog_rb_negocio">Negocios</string>
+    <string name="todo_app_dialog_rb_otro">Otros</string>
+    <string name="todo_app_dialog_rb_personal">Personal</string>
+</resources>
